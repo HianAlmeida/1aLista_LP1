@@ -1,0 +1,15 @@
+a, Objetos são abstrações de objetos reais que compartilham atributos e 
+operações, e são criados a partir das classes (são instancias em memória
+de uma classe).
+Classe é um tipo criado pelo programador a partir da qual os objetos podem
+ser criados, contendo as partes que irão compor os objetos (seus atributos
+e seus tipos e seus métodos).
+
+b, Construtores são métodos que não retornam valor e são chamados na 
+inicialização de objetos, servem para manter a integridade das informações
+dos objetos que estão sendo criados e pode ser utilizado para iniciar objetos
+passando alguns parâmetros ou iniciar de forma organizada um objeto.
+
+c, minimiza erros de programação, facilita a atualização do código, 
+oculta detalhes da implementação desnecessários para o usuário, restringe o 
+acesso a variáveis e métodos de uma classe.
